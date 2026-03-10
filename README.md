@@ -26,7 +26,7 @@
 - Clone the repository:
 
 ```bash
-git clone https://github.com/dmmscript/CreditScoreAI.git
+git clone https://github.com/dm-moro/CreditScoreAI.git
 ```
 
 - Install dependencies:
